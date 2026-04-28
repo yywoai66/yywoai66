@@ -1,16 +1,14 @@
-## Hi there 👋
+# 傅杨的个人主页
 
-<!--
-**yywoai66/yywoai66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
+你好，我是傅杨，目前就读于中南大学计算机学院软件工程专业，研0年级，即将前往香港大学攻读数据与系统工程专业。
 
-Here are some ideas to get you started:
+## 教育经历
+- 中南大学计算机学院，软件工程专业，硕士在读
+- 即将入读香港大学，数据与系统工程专业
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 联系方式
+你可以通过 [邮件](mailto:8209220202@csu.edu.cn) 联系我。
+
+## 更多信息
+欢迎访问我的 [GitHub](https://github.com/fuyang) 了解我的项目和研究。
